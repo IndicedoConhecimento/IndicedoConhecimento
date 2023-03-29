@@ -18,6 +18,6 @@ Meu nome é Davi, atualmente tenho 13 anos e gosto muito de comer, jogar, progra
 
 #### Redes:
 
-[Youtube](https://www.youtube.com/channel/UC0xfX57xJfXto1qLucsBS6Q)
+[Youtube](https://www.youtube.com/channel/UC0xfX57xJfXto1qLucsBS6Q) | 
 [Twitch](https://www.twitch.tv/indice_do_conhecimento)
 # IndicedoConhecimento
