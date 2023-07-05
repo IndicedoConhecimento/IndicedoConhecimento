@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indicedoconhecimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
+![Snake animation](https://github.com/Brtks/Brtks/blob/output/github-contribution-grid-snake.svg)
 
 Meu nome é Davi, atualmente tenho 13 anos e gosto muito de comer, jogar, programar e estudar.
 
