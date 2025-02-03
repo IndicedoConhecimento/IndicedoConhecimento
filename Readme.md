@@ -7,7 +7,7 @@
   
 </div>
 
-Meu nome é Davi, atualmente tenho 13 anos e gosto muito de comer, jogar, programar e estudar.
+Meu nome é Davi, atualmente tenho 16 anos e gosto muito de comer, jogar, programar e estudar.
 
 #### Linguagens (AMADOR):
 
